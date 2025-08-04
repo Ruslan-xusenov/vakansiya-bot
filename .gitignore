@@ -21,3 +21,5 @@ Thumbs.db
 
 /media/
 node_modules/
+
+creds.json
